@@ -8,7 +8,7 @@ The list of all my Alfred 2 Workflows. Enjoy!
 
 ## VNC for Alfred
 
-[Download](https://github.com/mcskrzypczak/Alfred2-Workflows/raw/master/workflows/VNC-by-mcskrzypczak.alfredworkflow)
+→ [**Download**](https://github.com/mcskrzypczak/Alfred2-Workflows/raw/master/workflows/VNC-by-mcskrzypczak.alfredworkflow)
 
 This workflow allows to add, delete and connect to other computers using OS X’s built in **Screen Sharing** application. Just use the `vnc` keyword and choose from list computer would you like to connect to:
 
