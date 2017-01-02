@@ -46,13 +46,11 @@ You can perform 4 actions with results by pressing specified keyboard button:
 
 ### Simple configuration
 
-You can edit workflow’s script file `script.py` to configure three things by changing these variables:
+In **Configure workflow and variables** window (*[x]*) you can set three values:
 
-- `COUNTRY` – specifies country and currency of App Store. Use the [ISO code][3] of the country you want. Default value is `pl` for Polish App Store.
-- `LIMIT` – limit workflow’s results. Maximum amount is *200*. Default value is `20`.
-- `affiliate` – if you got your affiliate code, place it here.
-
-I am planning to simplify the configuration process in near future by using Alfred 3 new possibilities.
+- `COUNTRY` – (required) specifies country and currency of App Store. Use the [ISO code][3] of the country you want. Default value is `pl` for Polish App Store.
+- `LIMIT` – (required) limit workflow’s results. Maximum amount is *200*. Default value is `20`.
+- `affiliate` – (optional) if you got your affiliate code, place it here.
 
 [1]:	https://github.com/mcskrzypczak/Alfred2-Workflows/raw/master/workflows/VNC-by-mcskrzypczak.alfredworkflow
 [2]:	https://github.com/mcskrzypczak/Alfred2-Workflows/raw/master/workflows/App-Store-Search-by-mcskrzypczak.alfredworkflow
