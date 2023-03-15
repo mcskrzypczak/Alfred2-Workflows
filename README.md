@@ -1,4 +1,4 @@
-# Alfred2-Workflows
+# Alfred Workflows
 
 ---- 
 
